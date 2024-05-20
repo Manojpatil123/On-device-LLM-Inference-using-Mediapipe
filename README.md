@@ -7,7 +7,7 @@ This guide provides step-by-step instructions on how to set up and run a sample 
 
 ## Setup Instructions
 
-- Create a new folder on your device named `llm_task`.
+- Create a new folder on your device named `llm_task`
 - Copy `index.html` and `index.js` files into the `llm_task` folder. These are essential for the task's web interface.
 - Download the Gemma 2B model (TensorFlow Lite `2b-it-gpu-int4` or `2b-it-gpu-int8`) into the `llm_task` folder. Alternatively, you can convert an external LLM (like Phi-2, Falcon, or StableLM) for a GPU backend, as only that is currently supported.
 - Open the `index.js` file in a text editor and update the `modelFileName` variable with the name of your model file.
