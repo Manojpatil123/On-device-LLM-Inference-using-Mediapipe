@@ -5,7 +5,7 @@ On-device LLM Inference using Mediapipe LLM Inference API.
 
 This guide provides step-by-step instructions on how to set up and run a sample LLM task on your local machine. Ensure you have Python (3.x or 2.x  for older versions) installed and a modern web browser, preferably Chrome, before you begin.
 
-## Setup Instructions
+## Setup Instructions.
 
 - Create a new folder on your device named `llm_task`
 - Copy `index.html` and `index.js` files into the `llm_task` folder. These are essential for the task's web interface.
